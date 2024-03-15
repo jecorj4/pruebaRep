@@ -34,6 +34,8 @@ public class Date {
    *
    * @return The month of the year (1-12).
    */
+  //Esta es la mia
+  public int getHour() { return hour;}
   public int getMonth() {
     return month;
   }
